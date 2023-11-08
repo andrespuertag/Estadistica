@@ -75,3 +75,10 @@ Si queremos subir la información a otra rama se debe hacer lo siguiente
 git checkout -b ramaA
 git push -u origin ramaA
 git push
+
+--> Clonar un repositorio
+
+git clone https://github.com/maestria-ds-eafit/Taller2_Estadistica
+pipenv install 
+pipenv upgrade
+pipenv update
