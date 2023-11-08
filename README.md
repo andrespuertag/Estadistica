@@ -67,3 +67,6 @@ git merge ramab
 
 
 -- > subir a la nube
+
+git pull origin main --rebase
+git push origin main
