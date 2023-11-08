@@ -82,3 +82,12 @@ git clone https://github.com/maestria-ds-eafit/Taller2_Estadistica
 pipenv install 
 pipenv upgrade
 pipenv update
+
+--> para instalar librerias en git
+
+pipenv install nombredelalibreria
+
+siempre que se utilice jupyter
+
+pipenv install jupyter
+
