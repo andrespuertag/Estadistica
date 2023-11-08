@@ -70,3 +70,8 @@ git merge ramab
 
 git pull origin main --rebase
 git push origin main
+
+Si queremos subir la información a otra rama se debe hacer lo siguiente
+git checkout -b ramaA
+git push -u origin ramaA
+git push
