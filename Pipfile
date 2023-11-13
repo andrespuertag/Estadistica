@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+statsmodels = "*"
+islp = "*"
 
 [dev-packages]
 
